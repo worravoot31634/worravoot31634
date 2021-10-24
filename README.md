@@ -26,7 +26,7 @@
   <br>
   📚 I’m currently learning about Flutter and Blockchain.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/worravoot31634/Profile/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/worravoot31634/worravoot31634/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: oat.worrawoot@gmail.com">oat.worrawoot@gmail.com</a>
 </p>
